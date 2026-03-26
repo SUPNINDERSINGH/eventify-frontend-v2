@@ -1,12 +1,12 @@
 # Eventify - Full Stack Event Management App
 
-## 📌 Description
+## Description
 
 Eventify is a full-stack web application that allows users to manage events. Users can create, view, edit, and delete events through an interactive UI.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * **Frontend:** React (Vite)
 * **Backend:** Node.js, Express
@@ -15,9 +15,9 @@ Eventify is a full-stack web application that allows users to manage events. Use
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
-### 🔹 Backend Setup
+### Backend Setup
 
 ```bash
 cd eventify-backend
@@ -25,12 +25,11 @@ npm install
 npm run dev
 ```
 
-Backend runs on:
-👉 http://localhost:5000/events
+Backend runs on: http://localhost:5000/events
 
 ---
 
-### 🔹 Frontend Setup
+### Frontend Setup
 
 ```bash
 cd eventify-frontend
@@ -43,7 +42,7 @@ Frontend runs on:
 
 ---
 
-## ✨ Features
+## Features
 
 * View all events
 * Add new event
@@ -54,7 +53,7 @@ Frontend runs on:
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 * GET `/events` → Fetch all events
 * POST `/events` → Create new event
@@ -63,6 +62,6 @@ Frontend runs on:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 SUPNINDER SINGH
